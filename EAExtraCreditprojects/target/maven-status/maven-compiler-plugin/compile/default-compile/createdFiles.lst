@@ -1,0 +1,8 @@
+cs544\mum\oproject\dao\ProjectDAOInterface.class
+cs544\mum\edu\oproject\model\Project.class
+cs544\mum\edu\oproject\model\ProjectTask.class
+cs544\mum\edu\oproject\service\ProjectService.class
+cs544\mum\edu\oproject\model\ProjectSkills.class
+cs544\mum\edu\oproject\model\User.class
+cs544\mum\oproject\controller\App.class
+cs544\mum\oproject\dao\ProjectDao.class
